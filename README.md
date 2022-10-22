@@ -1,13 +1,13 @@
-Taller de GitHub
+-Taller de GitHub
 
-Commit 1/3
+-Commit 1/3
 
-Commit 2/3
+-Commit 2/3
 
-Commit 3/3
+-Commit 3/3
 
-Learning
+-Learning
 
-Reading
+-Reading
 
-Working
+-Working
